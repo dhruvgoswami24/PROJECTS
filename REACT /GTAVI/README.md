@@ -1,12 +1,59 @@
-# React + Vite
+# GTAVI - Animated Landing Page 🎮
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive, animated landing page inspired by Grand Theft Auto VI, built with modern front-end technologies.
 
-Currently, two official plugins are available:
+## 🚀 Live Preview
+Coming soon...
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Built With
+- **React.js** – Component-based UI
+- **GSAP (GreenSock Animation Platform)** – For advanced animations
+- **Tailwind CSS** – Utility-first styling
+- **Vite** – Lightning-fast dev server
 
-## Expanding the ESLint configuration
+## ✨ Features
+- SVG intro animation using GSAP
+- Parallax hover movement
+- Smooth page transitions
+- Responsive layout
+- Minimal and clean design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Screenshots
+![GTAVI Landing Page](./public/screenshot.png)
+
+## 📁 Folder Structure
+GTAVI/
+├── public/
+├── src/
+│ ├── App.jsx
+│ ├── main.jsx
+│ └── index.css
+├── package.json
+└── vite.config.js
+
+bash
+Copy
+Edit
+
+## 🧠 How to Use
+
+```bash
+git clone https://github.com/dhruvgoswami24/PROJECTS.git
+cd GTAVI
+npm install
+npm run dev
+📬 Contact
+Feel free to connect with me on LinkedIn for collaboration or feedback.
+
+yaml
+Copy
+Edit
+
+---
+
+Let me know if you want to add:
+- A hosted **live preview link**
+- Your **personal branding** or logo
+- A **YouTube demo video** link
+
+I can help with that too!
